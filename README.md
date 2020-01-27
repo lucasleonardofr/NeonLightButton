@@ -14,10 +14,6 @@
 Criação de projeto para aprofudamento no conhecimento em css.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
-
 
 
 
